@@ -1,6 +1,6 @@
 # React v18 atSistemas livedemo @ July 11th 2022
 
-## Available Scripts
+## How to run the project:
 
 ### `npm start`
 
